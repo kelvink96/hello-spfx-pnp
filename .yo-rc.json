@@ -4,7 +4,7 @@
     "environment": "spo",
     "version": "1.10.0",
     "libraryName": "hello-spfx-pnp",
-    "libraryId": "2ba3b824-e1a3-404d-8ba9-b97ff7135bec",
+    "libraryId": "f2650980-0027-42b4-9b5a-ce46bc8235eb",
     "packageManager": "npm",
     "isDomainIsolated": false,
     "componentType": "webpart"

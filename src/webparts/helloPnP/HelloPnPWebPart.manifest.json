@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "6939ca89-878a-448c-9b17-a68664f5c447",
-  "alias": "PnPControlsWebPart",
+  "id": "7ca87514-cb04-4894-9f99-299807d794f8",
+  "alias": "HelloPnPWebPart",
   "componentType": "WebPart",
 
   // The "*" signifies that the version should be taken from the package.json
@@ -17,11 +17,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
     "group": { "default": "Other" },
-    "title": { "default": "PnP Controls" },
-    "description": { "default": "Learning to use SP default pane controls" },
+    "title": { "default": "Hello PnP" },
+    "description": { "default": "Hello PnP description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "PnP Controls"
+      "description": "Hello PnP"
     }
   }]
 }
