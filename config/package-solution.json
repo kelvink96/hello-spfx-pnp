@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-spfx-pnp-client-side-solution",
+    "id": "2ba3b824-e1a3-404d-8ba9-b97ff7135bec",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-spfx-pnp.sppkg"
+  }
+}
